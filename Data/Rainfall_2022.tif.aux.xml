@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>precipitation</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">1708.1879690443</MDI>
+      <MDI key="STATISTICS_MAXIMUM">5824.3705224991</MDI>
+      <MDI key="STATISTICS_MEAN">3173.3097531061</MDI>
+      <MDI key="STATISTICS_STDDEV">1030.6234821313</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">81.94</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
